@@ -18,3 +18,9 @@ strong{
     align-items: center;
     justify-content: space-between;
     }
+.aprentação__conteudo{
+    width: 615px;
+}
+aprentação__conteudo__titulo{
+    font-size: 36px;
+}
